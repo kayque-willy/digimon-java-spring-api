@@ -1,6 +1,6 @@
 # Java Spring API
 
-Exemplo de API RESTFUL com uso do Java Spring, JPA, Hibernate e PostgreSQL.
+Exemplo de API RESTFUL com uso do Java Spring e REST Template.
 Com objetivo de consumir a API `https://digimon-api.vercel.app/`
 
 This project was generated with [Java Spring Boot](https://spring.io/projects/spring-boot) version 2.6.1
