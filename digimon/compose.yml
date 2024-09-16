@@ -1,0 +1,14 @@
+services:
+    digimon:
+      build: .
+      ports:
+        - 8080:8080
+      networks:
+        - desenvolvimento
+      expose:
+        - 8080
+volumes:
+  digimon-data:
+networks:
+  desenvolvimento:
+      external: true
